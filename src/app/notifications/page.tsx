@@ -4,12 +4,14 @@ import {
   getNotifications,
   markNotificationsAsRead,
 } from '@/actions/notification.action'
+import { getProfileByUsername } from '@/actions/profile.action'
 import { NotificationsSkeleton } from '@/components/NotificationSkeleton'
 import { Avatar, AvatarImage } from '@/components/ui/avatar'
 import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card'
 import { ScrollArea } from '@/components/ui/scroll-area'
 import { formatDistanceToNow } from 'date-fns'
 import { HeartIcon, MessageCircleIcon, UserPlusIcon } from 'lucide-react'
+import { title } from 'process'
 
 import { useEffect, useState } from 'react'
 import toast from 'react-hot-toast'
