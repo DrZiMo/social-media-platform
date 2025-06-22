@@ -16,7 +16,7 @@ const NavBar = async () => {
               href='/'
               className='text-xl font-bold text-primary font-mono tracking-wider'
             >
-              Socially
+              SocialPalse
             </Link>
           </div>
 

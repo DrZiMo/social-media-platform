@@ -1,8 +1,8 @@
-# 🌐 SocialSphere – A Modern Social Media Platform
+# 🌐 SocialPalse – A Modern Social Media Platform
 
 **Built with Next.js, UploadThing, Neon (PostgreSQL), ShadCN UI, Clerk Auth, and Tailwind CSS**
 
-![SocialSphere Preview](./public/preview.png) <!-- Replace with actual preview image -->
+![SocialPalse Preview](./public/socialPalse-preview.png) <!-- Replace with actual preview image -->
 
 ## ✨ Features
 
