@@ -36,6 +36,6 @@
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/socialsphere.git
-cd socialsphere
+git clone https://github.com/DrZiMo/social-media-platform.git
+cd social-media-platform
 ```
